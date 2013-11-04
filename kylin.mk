@@ -12,10 +12,10 @@ $(call inherit-product, vendor/kylin/config/gsm.mk)
 #
 PRODUCT_NAME := kylin_mb886
 PRODUCT_BRAND := ATT
-PRODUCT_DEVICE := dinara
-PRODUCT_MODEL := MB866
-PRODUCT_MANUFACTURER := MOTO
-PRODUCT_RELEASE_NAME := MOTOROLA ATRIX HD
+PRODUCT_DEVICE := mb886
+PRODUCT_MODEL := mb886
+PRODUCT_MANUFACTURER := Motorola
+PRODUCT_RELEASE_NAME := Motorola Atrix HD
 PRODUCT_SFX := cn
 
 # Boot animation
